@@ -1,4 +1,3 @@
-ALX TRAVEL APP 0X01
 Duplicate Project:
 
 Duplicate the project alx_travel_app_0x00 to alx_travel_app_0x01
